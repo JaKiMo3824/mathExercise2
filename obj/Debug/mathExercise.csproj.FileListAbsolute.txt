@@ -1,0 +1,7 @@
+C:\Users\jacob\Documents\C# TA Course\mathExercise2\mathExercise\mathExercise\bin\Debug\mathExercise.exe.config
+C:\Users\jacob\Documents\C# TA Course\mathExercise2\mathExercise\mathExercise\bin\Debug\mathExercise.exe
+C:\Users\jacob\Documents\C# TA Course\mathExercise2\mathExercise\mathExercise\bin\Debug\mathExercise.pdb
+C:\Users\jacob\Documents\C# TA Course\mathExercise2\mathExercise\mathExercise\obj\Debug\mathExercise.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Documents\C# TA Course\mathExercise2\mathExercise\mathExercise\obj\Debug\mathExercise.csproj.CoreCompileInputs.cache
+C:\Users\jacob\Documents\C# TA Course\mathExercise2\mathExercise\mathExercise\obj\Debug\mathExercise.exe
+C:\Users\jacob\Documents\C# TA Course\mathExercise2\mathExercise\mathExercise\obj\Debug\mathExercise.pdb
